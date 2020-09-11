@@ -317,6 +317,10 @@
   transition: .5s;
 
 }
+.section_title2>h3{
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
 
 
 
@@ -977,7 +981,7 @@ h3 {
   color: #ac005c;
   font-size: 30px;
   font-weight: 700;
-  margin-bottom: 18px;
+  margin-bottom: 50px;
   display: block;
   font-family: 'Markazi Text', serif;
 }
