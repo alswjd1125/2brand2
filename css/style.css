@@ -84,7 +84,7 @@
 }
 .slide-txt{
   position: absolute;
-  top: 3760px;
+  top: 3550px;
   left: 700px;
   z-index: 2;
 }
@@ -320,6 +320,7 @@
 .section_title2>h3{
   padding-top: 70px;
   padding-bottom: 20px;
+  text-decoration-color: #000;
 }
 
 
@@ -343,7 +344,7 @@
 }
 .slide-txt{
   position: absolute;
-  top: 4600px;
+  top: 4335px;
   left: 90px;
   z-index: 2;
 }
@@ -404,7 +405,7 @@
   font-size: 20px;
 }
 .section_title>h3{
-  font-size: 25px !important;
+  font-size: 26px !important;
 }
 .event-txt{
   padding-bottom: 30px;
@@ -451,6 +452,9 @@ letter-spacing: -1px;
   font-size: 20px;
   letter-spacing: -2px;
   line-height: 35px;
+}
+.section_title2>h3{
+  font-size: 30px;
 }
 }
 
@@ -553,7 +557,7 @@ h6 a {
 ul {
   margin: 0px;
   padding: 0px;
-  padding-left: 80px;
+  
 }
 
 /* line 59, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/theme-default.scss */
